@@ -572,13 +572,13 @@ video {
 }
 @font-face {
   font-family: Canopee;
-  src: url(./assets/Canopee-onLdO9KA.otf);
+  src: url(./Canopee-onLdO9KA.otf);
 }
 * {
   font-family: Canopee;
 }
 #container {
-  background: url(./assets/jijitsu-FxuUogaq.gif);
+  background: url(./jijitsu-FxuUogaq.gif);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
